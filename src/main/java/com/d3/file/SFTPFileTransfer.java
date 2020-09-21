@@ -15,8 +15,8 @@ public class SFTPFileTransfer {
         //String localFile = "C:/Deep/documents/sftp/local/TownhallReceipt.jpg";
         //String remoteFile = "C:/Deep/documents/sftp/remote/TownhallReceipt.jpg";
 
-        String localFile = args[4];
-        String remoteFile = args[5];
+        String localFile = args[3];
+        String remoteFile = args[4];
 
         Session jschSession = null;
 
